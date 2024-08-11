@@ -1,4 +1,4 @@
-/* General styling for the body */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -9,7 +9,6 @@ body {
     align-items: center;
 }
 
-/* Styling the form */
 form {
     width: 100%;
     max-width: 500px;
