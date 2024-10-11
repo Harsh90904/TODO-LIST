@@ -10,7 +10,6 @@ const postData = async (user) => {
     document.cookie=`id = ${res.User._id}`
 }
 
-
 const handleData = (e) => {
     e.preventDefault();
     let data = {
@@ -23,7 +22,6 @@ const handleData = (e) => {
 
 
 }
-
 
 document.getElementById("userData").addEventListener("submit", handleData
 
